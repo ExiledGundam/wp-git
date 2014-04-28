@@ -19,10 +19,10 @@
 define('DB_NAME', 'wpgit');
 
 /** MySQL database username */
-define('DB_USER', 'localhost');
+define('DB_USER', 'root');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'integricityb!qwerty');
+define('DB_PASSWORD', '');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
