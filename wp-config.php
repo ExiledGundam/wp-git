@@ -18,7 +18,7 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'wpgit');
 
-/** MySQL database username */
+/** MySQL database username hihi*/
 define('DB_USER', 'root');
 
 /** MySQL database password */
