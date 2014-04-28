@@ -18,12 +18,16 @@
 /** The name of the database for WordPress */
 define('DB_NAME', 'wpgit');
 
-/** MySQL database username */
-define('DB_USER', 'localhost');
+/** MySQL database username huhu*/
+define('DB_USER', 'root');
 
 /** MySQL database password */
+<<<<<<< HEAD
 /*test line*/
 define('DB_PASSWORD', 'integricityb!qwerty');
+=======
+define('DB_PASSWORD', '');
+>>>>>>> origin/local1
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
