@@ -22,6 +22,7 @@ define('DB_NAME', 'wpgit');
 define('DB_USER', 'localhost');
 
 /** MySQL database password */
+/*test line*/
 define('DB_PASSWORD', 'integricityb!qwerty');
 
 /** MySQL hostname */
